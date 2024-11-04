@@ -1,6 +1,4 @@
 # 内容：国外媒体列表
-# 更新：2024-08-27 13:51:18
-# 数量：367条
 
 # ABC
 DOMAIN-SUFFIX,edgedatg.com
@@ -301,23 +299,8 @@ DOMAIN-SUFFIX,tidal-cms.s3.amazonaws.com
 DOMAIN-SUFFIX,tidal.com
 DOMAIN-SUFFIX,tidalhifi.com
 
-# TaiWanGood 台湾好
-USER-AGENT,TaiwanGood*
-DOMAIN,hamifans.emome.net
-DOMAIN-SUFFIX,skyking.com.tw
 
-# TikTok
-USER-AGENT,TikTok*
-DOMAIN-KEYWORD,tiktokcdn
-DOMAIN-SUFFIX,byteoversea.com
-DOMAIN-SUFFIX,ibytedtos.com
-DOMAIN-SUFFIX,ipstatp.com
-DOMAIN-SUFFIX,muscdn.com
-DOMAIN-SUFFIX,musical.ly
-DOMAIN-SUFFIX,tik-tokapi.com
-DOMAIN-SUFFIX,tiktok.com
-DOMAIN-SUFFIX,tiktokcdn.com
-DOMAIN-SUFFIX,tiktokv.com
+
 
 # Twitch
 DOMAIN-KEYWORD,ttvnw
