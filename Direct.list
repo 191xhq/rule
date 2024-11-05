@@ -11,9 +11,12 @@ DOMAIN-SUFFIX,yangshipin.cn
 DOMAIN-SUFFIX,dnsany.com
 DOMAIN-SUFFIX,cmvideo.cn
 DOMAIN-SUFFIX,chinamobile.com
+DOMAIN-SUFFIX,zotero.org
+DOMAIN-SUFFIX,scopus.com
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
-
+DOMAIN-KEYWORD,scopus
+DOMAIN-KEYWORD,elsevier
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
 IP-CIDR,183.207.0.0/16,no-resolve
