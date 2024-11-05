@@ -1,5 +1,5 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
-
+# geolocation.onetrust.com
 # MyList
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
@@ -14,11 +14,14 @@ DOMAIN-SUFFIX,chinamobile.com
 DOMAIN-SUFFIX,zotero.org
 DOMAIN-SUFFIX,scopus.com
 DOMAIN-SUFFIX,rum.scopus.com
+DOMAIN-SUFFIX,solutions.clarivate.com.cn
+DOMAIN-SUFFIX,webofscience.clarivate.cn
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,scopus
 DOMAIN-KEYWORD,elsevier
 DOMAIN-KEYWORD,clarivate
+DOMAIN-KEYWORD,webofscience
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
 IP-CIDR,183.207.0.0/16,no-resolve
