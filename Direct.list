@@ -20,7 +20,7 @@ DOMAIN-SUFFIX,www.ieee.org
 DOMAIN-SUFFIX,service.seamlessaccess.org
 DOMAIN-SUFFIX,ieee.org
 DOMAIN-SUFFIX,seamlessaccess.org
-DOMAIN-SUFFIX,geolocation.onetrust.com
+DOMAIN-SUFFIX,onetrust.com
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,scopus
