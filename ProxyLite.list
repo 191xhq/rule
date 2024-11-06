@@ -2,6 +2,8 @@
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,solutions.clarivate.com.cn
+DOMAIN-SUFFIX,browserleaks.com
+DOMAIN-SUFFIX,ipleak.net
 DOMAIN-SUFFIX,4gtv.tv
 DOMAIN-SUFFIX,hinet.net
 DOMAIN-SUFFIX,ofiii.com
