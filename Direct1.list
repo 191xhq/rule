@@ -19,11 +19,14 @@ DOMAIN-SUFFIX,scopus.com
 DOMAIN-SUFFIX,rum.scopus.com
 DOMAIN-SUFFIX,solutions.clarivate.com.cn
 DOMAIN-SUFFIX,webofscience.clarivate.cn
-DOMAIN-SUFFIX,www.ieee.org
+DOMAIN-SUFFIX,ieee.org
 DOMAIN-SUFFIX,service.seamlessaccess.org
 DOMAIN-SUFFIX,ieee.org
 DOMAIN-SUFFIX,seamlessaccess.org
 DOMAIN-SUFFIX,onetrust.com
+DOMAIN-SUFFIX,yiterm.com
+DOMAIN-SUFFIX,sb.adtidy.org
+DOMAIN-SUFFIX,webofknowledge.com
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,scopus
