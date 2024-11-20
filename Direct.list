@@ -1,16 +1,71 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 # geolocation.onetrust.com
 # MyList
-# 域名后缀匹配
-DOMAIN-SUFFIX,mathworks.com
-DOMAIN-SUFFIX,feiyangdigital.tg.ystenlive.ottdns.com
+# 学术域名后缀匹配
+DOMAIN-KEYWORD,cnki.net
+DOMAIN-KEYWORD,wanfangdata
+DOMAIN-KEYWORD,pkulaw
+DOMAIN-KEYWORD,westlawchina
+DOMAIN-SUFFIX,doi.org
+DOMAIN-SUFFIX,nature.com
 DOMAIN-SUFFIX,springer.com
+DOMAIN-SUFFIX,springernature.com
+DOMAIN-SUFFIX,researchgate.net
+DOMAIN-SUFFIX,blackwell-synergy.com
+DOMAIN-SUFFIX,cdnsciencepub.com
+DOMAIN-SUFFIX,academic.oup.com
+DOMAIN-SUFFIX,sciencedirect.com
+DOMAIN-SUFFIX,plos.org
+DOMAIN-SUFFIX,frontiersin.org
+DOMAIN-SUFFIX,mdpi.com
+DOMAIN-SUFFIX,biomedcentral.com
+DOMAIN-SUFFIX,elsevier.com
+DOMAIN-SUFFIX,cshlp.org
+DOMAIN-SUFFIX,wiley.com
+DOMAIN-SUFFIX,acs.org
+DOMAIN-SUFFIX,tandfonline.com
+DOMAIN-SUFFIX,csiro.au
+DOMAIN-SUFFIX,clarivate.com
+DOMAIN-SUFFIX,annualreviews.org
+DOMAIN-SUFFIX,jstor.org
+DOMAIN-SUFFIX,rsc.org
+DOMAIN-SUFFIX,clarivate.com
+DOMAIN-SUFFIX,webofscience.com
+DOMAIN-SUFFIX,webofknowledge.com
+DOMAIN-SUFFIX,liebertpub.com
+DOMAIN-SUFFIX,science.org
+DOMAIN-SUFFIX,worldscientific.com
 DOMAIN-SUFFIX,aps.org
+DOMAIN-SUFFIX,iop.org
+DOMAIN-SUFFIX,aip.scitation.org
+DOMAIN-SUFFIX,cambridge.org
+DOMAIN-SUFFIX,dl.acm.org
+DOMAIN-SUFFIX,cabdirect.org
+DOMAIN-SUFFIX,osapublishing.org
+DOMAIN-SUFFIX,sciencemag.org
 DOMAIN-SUFFIX,superlib.net
 DOMAIN-SUFFIX,cqvip.com
 DOMAIN-SUFFIX,scigreat.com
 DOMAIN-SUFFIX,img.gufenxueshu.net
 DOMAIN-SUFFIX,xs.3822808.com
+DOMAIN-SUFFIX,zotero.org
+DOMAIN-SUFFIX,scopus.com
+DOMAIN-SUFFIX,rum.scopus.com
+DOMAIN-SUFFIX,webofscience.clarivate.cn
+DOMAIN-SUFFIX,ieee.org
+DOMAIN-SUFFIX,oup.com
+DOMAIN-SUFFIX,service.seamlessaccess.org
+DOMAIN-SUFFIX,seamlessaccess.org
+DOMAIN-SUFFIX,onetrust.com
+DOMAIN-SUFFIX,yiterm.com
+DOMAIN-SUFFIX,adtidy.org
+DOMAIN-SUFFIX,webofknowledge.com
+
+DOMAIN-SUFFIX,mathworks.com
+DOMAIN-SUFFIX,feiyangdigital.tg.ystenlive.ottdns.com
+
+
+# 国内流媒体域名匹配
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
@@ -20,25 +75,17 @@ DOMAIN-SUFFIX,yangshipin.cn
 DOMAIN-SUFFIX,dnsany.com
 DOMAIN-SUFFIX,cmvideo.cn
 DOMAIN-SUFFIX,chinamobile.com
-DOMAIN-SUFFIX,zotero.org
-DOMAIN-SUFFIX,scopus.com
-DOMAIN-SUFFIX,rum.scopus.com
-DOMAIN-SUFFIX,webofscience.clarivate.cn
-DOMAIN-SUFFIX,ieee.org
-DOMAIN-SUFFIX,service.seamlessaccess.org
-DOMAIN-SUFFIX,ieee.org
-DOMAIN-SUFFIX,seamlessaccess.org
-DOMAIN-SUFFIX,onetrust.com
-DOMAIN-SUFFIX,yiterm.com
-DOMAIN-SUFFIX,adtidy.org
-DOMAIN-SUFFIX,webofknowledge.com
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
+DOMAIN-KEYWORD,sciencedirect
+DOMAIN-KEYWORD,deepdyve
+DOMAIN-KEYWORD,els-cdn
 DOMAIN-KEYWORD,scopus
 DOMAIN-KEYWORD,elsevier
 DOMAIN-KEYWORD,clarivate
 DOMAIN-KEYWORD,webofscience
 DOMAIN-KEYWORD,springer
+DOMAIN-KEYWORD,readcube
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
 IP-CIDR,183.207.0.0/16,no-resolve
