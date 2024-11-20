@@ -60,12 +60,9 @@ DOMAIN-SUFFIX,onetrust.com
 DOMAIN-SUFFIX,yiterm.com
 DOMAIN-SUFFIX,adtidy.org
 DOMAIN-SUFFIX,webofknowledge.com
-
 DOMAIN-SUFFIX,mathworks.com
-DOMAIN-SUFFIX,feiyangdigital.tg.ystenlive.ottdns.com
-
-
 # 国内流媒体域名匹配
+DOMAIN-SUFFIX,feiyangdigital.tg.ystenlive.ottdns.com
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
