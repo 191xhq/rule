@@ -61,6 +61,7 @@ DOMAIN-SUFFIX,yiterm.com
 DOMAIN-SUFFIX,adtidy.org
 DOMAIN-SUFFIX,webofknowledge.com
 DOMAIN-SUFFIX,mathworks.com
+DOMAIN-SUFFIX,optica.org
 # 国内流媒体域名匹配
 DOMAIN-SUFFIX,feiyangdigital.tg.ystenlive.ottdns.com
 DOMAIN-SUFFIX,time.windows.com
@@ -75,6 +76,7 @@ DOMAIN-SUFFIX,chinamobile.com
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,sciencedirect
+DOMAIN-KEYWORD,optica
 DOMAIN-KEYWORD,deepdyve
 DOMAIN-KEYWORD,els-cdn
 DOMAIN-KEYWORD,scopus
