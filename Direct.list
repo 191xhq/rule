@@ -63,6 +63,8 @@ DOMAIN-SUFFIX,webofknowledge.com
 DOMAIN-SUFFIX,mathworks.com
 DOMAIN-SUFFIX,optica.org
 # 国内流媒体域名匹配
+DOMAIN-SUFFIX,hdhive.online
+DOMAIN-SUFFIX,leijing1.com
 DOMAIN-SUFFIX,feiyangdigital.tg.ystenlive.ottdns.com
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
