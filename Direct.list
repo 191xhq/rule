@@ -89,6 +89,7 @@ DOMAIN-SUFFIX,cmvideo.cn
 DOMAIN-SUFFIX,chinamobile.com
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
+DOMAIN-KEYWORD,kstore
 DOMAIN-KEYWORD,sciencedirect
 DOMAIN-KEYWORD,optica
 DOMAIN-KEYWORD,deepdyve
