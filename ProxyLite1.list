@@ -14,9 +14,9 @@ DOMAIN-SUFFIX,gptshunter.com
 DOMAIN-SUFFIX,clashforwindows.org
 DOMAIN-SUFFIX,hdhive.online
 DOMAIN-SUFFIX,missav.ws
+DOMAIN-SUFFIX,groq.com
 # 域名关键字匹配
 # DOMAIN-KEYWORD,1e100
-DOMAIN-KEYWORD,groq
 # Spotify
 USER-AGENT,Spotify*
 DOMAIN-KEYWORD,-spotify-
