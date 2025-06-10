@@ -118,15 +118,15 @@
   DOMAIN-SUFFIX,cointrendz.com
   DOMAIN-SUFFIX,compound.finance
   DOMAIN-SUFFIX,crunchbase.com
-  DOMAIN-SUFFIX51.app
-  DOMAIN-SUFFIXart.io
-  DOMAIN-SUFFIX.com
-  DOMAIN-SUFFIXcompare.com
-  DOMAIN-SUFFIXfees.info
-  DOMAIN-SUFFIXmus.com
-  DOMAIN-SUFFIXquant.com
-  DOMAIN-SUFFIXrank.io
-  DOMAIN-SUFFIXslam.io
+  DOMAIN-SUFFIX,Crypto51.app
+  DOMAIN-SUFFIX,Cryptoart.io
+  DOMAIN-SUFFIX,Crypto.com
+  DOMAIN-SUFFIX,Cryptocompare.com
+  DOMAIN-SUFFIX,Cryptofees.info
+  DOMAIN-SUFFIX,Cryptomus.com
+  DOMAIN-SUFFIX,Cryptoquant.com
+  DOMAIN-SUFFIX,Cryptorank.io
+  DOMAIN-SUFFIX,Cryptoslam.io
   DOMAIN-SUFFIX,curve.fi
   DOMAIN-SUFFIX,cyberx.com
   DOMAIN-SUFFIX,dappradar.com
