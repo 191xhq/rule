@@ -8,7 +8,7 @@
  DOMAIN-SUFFIX,b23.tv
  DOMAIN-SUFFIX,hdslb.com
  DOMAIN,upos-hz-mirrorakam.akamaized.net
- DOMAIN-KEYWORD
+ DOMAIN-KEYWORD,bilibili
  DOMAIN-KEYWORD,cn-hk-eq-bcache-
  IP-CIDR,121.11.192.0/24,no-resolve
  DOMAIN,apiintl.biliapi.net
